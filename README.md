@@ -1,4 +1,6 @@
 # react-window-detect-dimensions [![NPM version][npm-image]][npm-url]  [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Canner/react-window-detect-dimensions.svg)](https://greenkeeper.io/)
 > React component to detect window size change
 
 ## Installation
